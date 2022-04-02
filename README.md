@@ -4,7 +4,7 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)
 
-Hi guys, I'm **Bruno Barretta**. I am a JavaScript developer from Campinas, Brasil. I'm currently unemployed and looking for a job as a Font-End Developer.  
+Hi guys, I'm **Bruno Barretta**. I am a FullStack developer from Indaiatuba, Brasil. 
 I have some works with **JavaScript**, **Node.js**, **Java**, **SQL** and **Angular**, contact me if you have same interesting!
 
 ## 📫 Contact Me on Social Media
