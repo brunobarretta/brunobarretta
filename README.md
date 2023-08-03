@@ -18,7 +18,7 @@ I have some works with **JavaScript**, **TypeScript**, **Node.js**, **Kotlin**, 
 ## 💻 Open Source Work Stats
 
 ![brunobarreta's Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunobarretta&theme=dark)
-![brunobarretta's Github stats](https://github-readme-stats.vercel.app/api?username=brunobarretta&show_icons=true&theme=dark)
+![brunobarretta's Github stats](https://github-readme-stats.vercel.app/api?username=brunobarretta&show_icons=true&theme=dark&hide=java)
 
 <!--
 **brunobarretta/brunobarretta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
