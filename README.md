@@ -4,7 +4,7 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)
 
-Hi guys, I'm **Bruno Barretta**. I am a FullStack developer from Indaiatuba, Brasil. I lived for 3 years in Japan in a cultural exchange. 
+Hi guys, I'm **Bruno Barretta**. I am a FullStack developer from Indaiatuba, Brazil. I lived for 3 years in Japan in a cultural exchange. 
 I have some works with **JavaScript**, **TypeScript**, **Node.js**, **Kotlin**, **SQL**, **React**, **Ionic** and **Angular 2+**, contact me if you have same interesting!
 
 ## 📫 Contact Me on Social Media
