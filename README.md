@@ -4,7 +4,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-I'm **Bruno Barretta**. I am a Front-end developer. I currently work at [Codex][2].
+I'm **Bruno Barretta**. I'm a Front-end developer. I'm currently working at [Codex][2].
 
 ### 🚀 Frontend
 [![Habilidades front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,sass,styledcomponents,materialui,redux
