@@ -24,7 +24,7 @@ I'm **Bruno Barretta**. I'm a Front-end developer. I'm currently working at [Cod
 
 ### 💻 My Statistics
 
-![brunobarreta's Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunobarretta&theme=dark&hide=java)
+![brunobarreta's Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunobarretta&theme=tokyonight&hide=java)
 ![brunobarretta's Github stats](https://github-readme-stats.vercel.app/api?username=brunobarretta&show_icons=true&theme=tokyonight)
 
 ### 📫 Contact Me on Social Media
