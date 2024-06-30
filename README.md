@@ -7,7 +7,7 @@
 I'm **Bruno Barretta**. I'm a Front-end developer. I'm currently working at [Codex][2].
 
 ### 🚀 Frontend
-[![Habilidades front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,styledcomponents,materialui,redux
+[![Habilidades front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,styledcomponents,redux
 )](https://skillicons.dev)
  
 ### 👉 Backend
