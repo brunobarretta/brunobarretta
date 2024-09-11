@@ -4,7 +4,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-I'm **Bruno Barretta**. I'm a Front-end developer. I'm currently working at [Codex][2].
+I'm **Bruno Barretta**, a Front-end Developer focused on building clean, user-friendly applications. Currently, I work at [Codex][2], helping to create scalable web solutions. I'm always learning new tools and keeping up with industry trends.
 
 ### 🚀 Frontend
 [![Habilidades front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,styledcomponents,redux
@@ -23,9 +23,9 @@ I'm **Bruno Barretta**. I'm a Front-end developer. I'm currently working at [Cod
 ![Insomnia](https://img.shields.io/badge/insomnia-purple.svg?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ### 💻 My Statistics
-
 ![brunobarreta's Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunobarretta&theme=tokyonight&hide=java)
 ![brunobarretta's Github stats](https://github-readme-stats.vercel.app/api?username=brunobarretta&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brunobarretta&theme=tokyonight)
 
 ### 📫 Contact Me on Social Media
 <div> 
