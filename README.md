@@ -4,7 +4,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-I'm **Bruno Barretta**, a Front-end Developer focused on building clean, user-friendly applications. Currently, I work at Wave Technologies, helping to create scalable web solutions. I'm always learning new tools and keeping up with industry trends.
+I'm **Bruno Barretta**, a Front-end Developer focused on building clean, user-friendly applications. Currently, I work at AgroPlay, helping to create scalable web solutions. I'm always learning new tools and keeping up with industry trends.
 
 ### 🚀 Frontend
 [![Habilidades front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,styledcomponents,redux
