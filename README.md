@@ -7,7 +7,7 @@
 I'm **Bruno Barretta**, a Front-end Developer focused on building clean, user-friendly applications. I'm always learning new tools and keeping up with industry trends.
 
 ### 🚀 Frontend
-[![Habilidades front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,styledcomponents,redux
+[![Habilidades front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind
 )](https://skillicons.dev)
  
 ### 👉 Backend
@@ -15,7 +15,7 @@ I'm **Bruno Barretta**, a Front-end Developer focused on building clean, user-fr
 )](https://skillicons.dev)
 
 ### 👉 Code versioning, S.O e IDE
-[![Outras informações](https://skillicons.dev/icons?i=git,github,gitlab,vscode,atom
+[![Outras informações](https://skillicons.dev/icons?i=git,github,gitlab,vscode
 )](https://skillicons.dev)
 
 ### 👉 Other Tools and Technologies
